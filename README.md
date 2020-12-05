@@ -1,6 +1,9 @@
 # Simple Joystick BLE (Open-source)
 The Simple Joystick BLE App is a free and open-source for turns your mobile phone into a remote control for robotic applications. This app has simple user interface and is easy to set up. With support for Bluetooth modules HM-10, HM-11. Written in Flutter framework using Android Studio
 
+# Note
+This Simple Joystick BLE app versions during development.
+
 # Demo
 <img src="https://github.com/Dhanabhon/Simple_Joystick_BLE/blob/master/screen_shot1.png"/>
 
